@@ -1,0 +1,9 @@
+Go Gators!
+git config --global user.email "Dariana2232@gmail.com"
+git config --global user.name "Dariana"
+git add -all
+git branch -M main
+git commit-m "Lab 1 commit"
+git remote add origin https://github.com/DarianaS-64/Silva_Dariana_ENGR_212_01Lab.git
+git push -u origin main
+https://help.instructure.com/
